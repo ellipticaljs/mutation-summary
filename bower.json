@@ -1,0 +1,23 @@
+{
+  "name": "elliptical-mutation-summary",
+  "description": "DOM Mutation Summary Observer",
+  "main": "dist/elliptical.mutation.summary.js",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "DOM",
+    "mutation",
+    "summary",
+    "observer"
+  ],
+  "homepage": "Y",
+  "moduleType": [],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
