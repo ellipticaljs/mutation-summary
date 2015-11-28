@@ -1,15 +1,15 @@
 {
   "name": "elliptical-mutation-summary",
   "description": "DOM Mutation Summary Observer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/elliptical-mutation-summary.git"
+    "url": "https://github.com/ellipticaljs/mutation-summary.git"
   },
   "dependencies": {
-    "jquery-mutation-summary": "git+https://github.com/tachyon1337/jquery-mutation-summary.git"
+    "jquery-mutation-summary": "git+https://github.com/ellipticaljs/jquery-mutation-summary.git"
   },
   "devDependencies": {
     "gulp": "^3.8.7",
